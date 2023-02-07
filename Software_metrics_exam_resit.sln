@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Software_metrics_exam_resit", "Software_metrics_exam_resit\Software_metrics_exam_resit.pyproj", "{F14ED99F-4AC4-42E2-9A7B-C29FEAB84B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14ED99F-4AC4-42E2-9A7B-C29FEAB84B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14ED99F-4AC4-42E2-9A7B-C29FEAB84B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA3AA33-4FD0-49CA-8F71-99D497662062}
+	EndGlobalSection
+EndGlobal
